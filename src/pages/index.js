@@ -15,9 +15,9 @@ import Scroll from '../components/Scroll';
 
 const sections = [
   { id: 'top', name: 'Intro', icon: 'fa-home' },
-  { id: 'portfolio', name: 'Portfolio', icon: 'fa-th' },
-  { id: 'about', name: 'About Me', icon: 'fa-user' },
-  { id: 'contact', name: 'Contact', icon: 'fa-envelope' },
+  { id: 'portfolio', name: 'Logos', icon: 'fa-th' },
+  { id: 'about', name: 'Color', icon: 'fa-user' },
+
 ];
 
 const IndexPage = () => (
